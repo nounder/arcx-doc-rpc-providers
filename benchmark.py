@@ -6,6 +6,8 @@ import pandas as pd
 import json as jsonlib
 from datetime import datetime, timedelta
 from typing import TypedDict
+from aiolimiter import AsyncLimiter
+
 
 import httpx
 from pandas.core.generic import gc
@@ -67,6 +69,7 @@ async def rpc_call(method, params, *, url, client: httpx.AsyncClient):
             },
         )
 
+        print(res.text[:100])
         res.raise_for_status()
     except (httpx.RequestError, httpx.HTTPError, h2.exceptions.ProtocolError) as e:
         res = None
@@ -74,7 +77,7 @@ async def rpc_call(method, params, *, url, client: httpx.AsyncClient):
 
     end = datetime.now()
 
-    print(f"{method}({params}) done in {end - start}s")
+    print(f"{method}({params}) done in {end - start}")
 
     if res:
         error = res.json().get("error", None)
@@ -90,6 +93,38 @@ async def rpc_call(method, params, *, url, client: httpx.AsyncClient):
         "end": end,
         "error": error,
     }
+
+
+async def test_limit(label, blocks: range, limit, client, url, use_hex=False):
+    print(f"Testing limit {label} blocks={blocks}")
+
+    gc.collect()
+
+    sem = AsyncLimiter(limit)
+
+    async def throttled_fn(*args, **kwargs):
+        async with sem:
+            res = await rpc_call(*args, **kwargs)
+
+            return res
+
+    tasks = [
+        throttled_fn(
+            "eth_getBlockByNumber",
+            [hex(i) if use_hex else i, False],
+            url=url,
+            client=client,
+        )
+        for i in blocks
+    ]
+
+    calls = await asyncio.gather(*tasks)
+
+    stats = [c[1] for c in calls]
+
+    stats_df = pd.DataFrame(stats)
+
+    stats_df.to_csv(f"output/{label}.csv")
 
 
 async def test_flood(label, blocks: range, concurrency, client, url, use_hex=False):
@@ -108,7 +143,7 @@ async def test_flood(label, blocks: range, concurrency, client, url, use_hex=Fal
     tasks = [
         throttled_fn(
             "eth_getBlockByNumber",
-            [hex(i) if use_hex else i, True],
+            [hex(i) if use_hex else i, False],
             url=url,
             client=client,
         )
@@ -194,70 +229,51 @@ async def test_flood_protocols_all_providers(concurrency=100):
     )
 
 
-async def test_flood_h2_all_providers(concurrency=100):
-    await asyncio.sleep(15)
-
-
-async def test_limits(
-    url, prefix, *, blocks=100, concurrency=100, use_hex=False, clients=1
-):
-    await test_flood(
-        f"{prefix},limits,b={blocks},c={concurrency}",
-        range(START_BLOCK, START_BLOCK + blocks),
-        concurrency,
-        create_h2_clients(clients),
-        url,
-        use_hex,
-    )
-
-    pass
-
-
 async def test_chainstack_concurrency():
     for n in range(98, 103):
-        await test_limits(
+        prefix = "chainstack,concurrency"
+
+        await test_flood(
+            f"{prefix},limits,b={n},c={n}",
+            range(START_BLOCK, START_BLOCK + n),
+            n,
+            create_h2_clients(1),
             CHAINSTACK_RPC_URL,
-            "chainstack,concurrency",
-            concurrency=n,
-            blocks=n,
         )
 
         await asyncio.sleep(5)
 
 
-async def test_limits_all(*, concurrency=100, blocks=500):
-    cn = 2
+async def test_limits_all():
+    cn = 5
 
-    await test_flood(
-        f"quicknode,limits,b={blocks},c={concurrency},p=h2,i={cn}",
-        range(START_BLOCK, START_BLOCK + blocks),
-        concurrency,
-        create_h2_clients(cn),
-        QUICKNODE_RPC_URL,
-        use_hex=True,
-    )
+    for provider, url in [
+        ("quicknode", QUICKNODE_RPC_URL),
+        ("alchemy", ALCHEMY_RPC_URL),
+        ("chainstack", CHAINSTACK_RPC_URL),
+    ]:
+        clients = create_h2_clients(cn)
 
-    await asyncio.sleep(5)
+        async def _call(i, bf=3, clients=clients):
+            blocks = bf * i
 
-    await test_flood(
-        f"alchemy,limits,b={blocks},c={concurrency},p=h2,i={cn}",
-        range(START_BLOCK, START_BLOCK + blocks),
-        concurrency,
-        create_h2_clients(cn),
-        ALCHEMY_RPC_URL,
-        use_hex=True,
-    )
+            await test_flood(
+                f"{provider},burst,b={blocks},c={i},p=h2,i={cn}",
+                range(START_BLOCK, START_BLOCK + (blocks)),
+                i,
+                clients,
+                url,
+                use_hex=(provider != "chainstack"),
+            )
 
-    await asyncio.sleep(5)
+            await asyncio.sleep(5)
 
-    await test_flood(
-        f"chainstack,limits,b={blocks},c={concurrency},p=h2,i={cn}",
-        range(START_BLOCK, START_BLOCK + blocks),
-        concurrency,
-        create_h2_clients(cn),
-        CHAINSTACK_RPC_URL,
-        use_hex=True,
-    )
+        # Warm up
+        for client in clients:
+            await _call(cn, 1, client)
+
+        for i in range(5, 125, 5):
+            await _call(i)
 
 
 async def main():
