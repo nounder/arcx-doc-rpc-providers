@@ -35,7 +35,7 @@ export function plotProviderData(data) {
 
 export async function plotDurationPerConcurrency(data, limit = NaN) {
   return Plot.plot({
-    y: { label: "Response time (ms)" },
+    y: { label: "Response time (ms)", domain: [0, 2000] },
     grid: true,
     marks: [
       ...(!isNaN(limit)
@@ -62,7 +62,7 @@ export async function plotDurationPerConcurrency(data, limit = NaN) {
         stroke: "duration",
       }),
 
-      Plot.crosshairY(data, { y: "duration" }),
+      Plot.crosshair(data, { x: "concurrency", y: "duration" }),
 
       Plot.dot(data, {
         filter: (d) => d.error,
