@@ -1,6 +1,17 @@
 # Ethereum RPC Providers Analysis
 
-##
+This document outlines performance and network characteristics
+of three popular Ethereum RPC providers: Alchemy, QuickNode, Chainstack.
+
+First, we compare performance of HTTP/1.1 and HTTP/2 in terms of
+latency, response time, and concurrency. We try to address
+unexpected behaviors of the providers' servers.
+
+Then we outline rate limtis as advertised by the providers and test them.
+
+## Methodology
+
+All benchmarks were run on Google Cloud in Jakarta datacenter.
 
 ## Protocol performance
 
@@ -168,6 +179,9 @@ const data = await FileAttachment("data/all,burst.csv").csv({
   typed: true,
 })
 
+const provider = "quicknode"
+const limit = 12
+
 display(data)
 
 display(olympians)
@@ -175,11 +189,42 @@ display(olympians)
 display(
   Plot.plot({
     marginBottom: 100,
-    x: { label: null, tickRotate: 90 },
-    y: { grid: true },
+    y: { label: "Response time (ms)" },
+    grid: true,
+    color: {
+      scheme: "BuRd",
+    },
     marks: [
-      Plot.barY(data, Plot.groupX({ y: "count" }, { x: "concurrency" })),
-      Plot.ruleY([0]),
+      Plot.ruleX([limit], {
+        stroke: "red",
+      }),
+      Plot.text(["limit"], {
+        x: limit,
+        dx: 10,
+        fill: "red",
+        lineWidth: 20,
+        frameAnchor: "top",
+        textAnchor: "start",
+      }),
+      Plot.dot(data, {
+        filter: (d) => d.provider == provider,
+        x: "concurrency",
+        y: "duration",
+        r: 1,
+        stroke: "duration",
+      }),
+
+      Plot.lineX(
+        data,
+        Plot.groupX(
+          { y: "mean" },
+          {
+            x: "concurrency",
+            y: "duration",
+            curve: "catmull-rom",
+          },
+        ),
+      ),
     ],
   }),
 )
