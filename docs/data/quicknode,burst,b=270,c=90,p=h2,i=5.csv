@@ -1,0 +1,271 @@
+,start,end,error
+0,2024-02-21 08:12:50.180074,2024-02-21 08:12:50.682952,
+1,2024-02-21 08:12:50.180661,2024-02-21 08:12:50.683254,
+2,2024-02-21 08:12:50.180988,2024-02-21 08:12:50.412341,
+3,2024-02-21 08:12:50.181224,2024-02-21 08:12:50.460893,
+4,2024-02-21 08:12:50.181439,2024-02-21 08:12:50.506518,
+5,2024-02-21 08:12:50.181683,2024-02-21 08:12:50.462261,
+6,2024-02-21 08:12:50.181915,2024-02-21 08:12:50.339994,
+7,2024-02-21 08:12:50.182114,2024-02-21 08:12:50.541452,
+8,2024-02-21 08:12:50.182344,2024-02-21 08:12:50.472650,
+9,2024-02-21 08:12:50.182592,2024-02-21 08:12:50.415909,
+10,2024-02-21 08:12:50.182814,2024-02-21 08:12:50.478837,
+11,2024-02-21 08:12:50.183143,2024-02-21 08:12:50.422355,
+12,2024-02-21 08:12:50.183355,2024-02-21 08:12:50.420025,
+13,2024-02-21 08:12:50.183558,2024-02-21 08:12:50.488168,
+14,2024-02-21 08:12:50.183765,2024-02-21 08:12:50.343108,
+15,2024-02-21 08:12:50.183963,2024-02-21 08:12:50.392162,
+16,2024-02-21 08:12:50.184165,2024-02-21 08:12:50.354050,
+17,2024-02-21 08:12:50.184402,2024-02-21 08:12:50.386454,
+18,2024-02-21 08:12:50.184629,2024-02-21 08:12:50.397970,
+19,2024-02-21 08:12:50.184838,2024-02-21 08:12:50.400347,
+20,2024-02-21 08:12:50.185137,2024-02-21 08:12:50.307152,
+21,2024-02-21 08:12:50.185350,2024-02-21 08:12:50.430327,
+22,2024-02-21 08:12:50.185555,2024-02-21 08:12:50.436249,
+23,2024-02-21 08:12:50.185763,2024-02-21 08:12:50.389379,
+24,2024-02-21 08:12:50.185963,2024-02-21 08:12:50.468210,
+25,2024-02-21 08:12:50.186158,2024-02-21 08:12:50.475723,
+26,2024-02-21 08:12:50.186349,2024-02-21 08:12:50.498549,
+27,2024-02-21 08:12:50.186574,2024-02-21 08:12:50.479150,
+28,2024-02-21 08:12:50.186796,2024-02-21 08:12:50.323091,
+29,2024-02-21 08:12:50.187000,2024-02-21 08:12:50.408454,
+30,2024-02-21 08:12:50.187338,2024-02-21 08:12:50.501309,
+31,2024-02-21 08:12:50.187549,2024-02-21 08:12:50.341970,
+32,2024-02-21 08:12:50.187755,2024-02-21 08:12:50.504306,
+33,2024-02-21 08:12:50.187958,2024-02-21 08:12:50.439862,
+34,2024-02-21 08:12:50.188152,2024-02-21 08:12:50.507359,
+35,2024-02-21 08:12:50.188341,2024-02-21 08:12:50.375368,
+36,2024-02-21 08:12:50.188529,2024-02-21 08:12:50.379307,
+37,2024-02-21 08:12:50.188728,2024-02-21 08:12:50.441571,
+38,2024-02-21 08:12:50.188931,2024-02-21 08:12:50.382604,
+39,2024-02-21 08:12:50.189214,2024-02-21 08:12:50.413154,
+40,2024-02-21 08:12:50.189420,2024-02-21 08:12:50.524398,
+41,2024-02-21 08:12:50.189621,2024-02-21 08:12:50.461800,
+42,2024-02-21 08:12:50.189830,2024-02-21 08:12:50.556343,
+43,2024-02-21 08:12:50.190030,2024-02-21 08:12:50.559092,
+44,2024-02-21 08:12:50.190223,2024-02-21 08:12:50.417682,
+45,2024-02-21 08:12:50.190417,2024-02-21 08:12:50.485337,
+46,2024-02-21 08:12:50.190655,2024-02-21 08:12:50.604494,
+47,2024-02-21 08:12:50.190862,2024-02-21 08:12:50.486986,
+48,2024-02-21 08:12:50.191061,2024-02-21 08:12:50.412668,
+49,2024-02-21 08:12:50.191355,2024-02-21 08:12:50.560862,
+50,2024-02-21 08:12:50.191559,2024-02-21 08:12:50.525689,
+51,2024-02-21 08:12:50.191764,2024-02-21 08:12:50.561572,
+52,2024-02-21 08:12:50.191964,2024-02-21 08:12:50.605459,
+53,2024-02-21 08:12:50.192157,2024-02-21 08:12:50.444591,
+54,2024-02-21 08:12:50.192354,2024-02-21 08:12:50.608770,
+55,2024-02-21 08:12:50.192544,2024-02-21 08:12:50.527597,
+56,2024-02-21 08:12:50.192750,2024-02-21 08:12:50.493386,
+57,2024-02-21 08:12:50.192952,2024-02-21 08:12:50.405610,
+58,2024-02-21 08:12:50.193240,2024-02-21 08:12:50.611678,
+59,2024-02-21 08:12:50.193537,2024-02-21 08:12:50.427903,
+60,2024-02-21 08:12:50.193807,2024-02-21 08:12:50.447337,
+61,2024-02-21 08:12:50.194018,2024-02-21 08:12:50.396802,
+62,2024-02-21 08:12:50.194218,2024-02-21 08:12:50.528789,
+63,2024-02-21 08:12:50.194501,2024-02-21 08:12:50.423922,
+64,2024-02-21 08:12:50.194763,2024-02-21 08:12:50.594926,
+65,2024-02-21 08:12:50.194975,2024-02-21 08:12:50.618766,
+66,2024-02-21 08:12:50.195237,2024-02-21 08:12:50.534452,
+67,2024-02-21 08:12:50.195459,2024-02-21 08:12:50.620675,
+68,2024-02-21 08:12:50.195790,2024-02-21 08:12:50.614754,
+69,2024-02-21 08:12:50.196004,2024-02-21 08:12:50.466130,
+70,2024-02-21 08:12:50.196213,2024-02-21 08:12:50.467422,
+71,2024-02-21 08:12:50.196412,2024-02-21 08:12:50.616220,
+72,2024-02-21 08:12:50.196609,2024-02-21 08:12:50.430650,
+73,2024-02-21 08:12:50.196820,2024-02-21 08:12:50.660993,
+74,2024-02-21 08:12:50.197017,2024-02-21 08:12:50.494816,
+75,2024-02-21 08:12:50.197216,2024-02-21 08:12:50.665728,
+76,2024-02-21 08:12:50.197442,2024-02-21 08:12:50.709037,
+77,2024-02-21 08:12:50.199217,2024-02-21 08:12:50.675292,
+78,2024-02-21 08:12:50.199485,2024-02-21 08:12:50.489204,
+79,2024-02-21 08:12:50.199711,2024-02-21 08:12:50.622673,
+80,2024-02-21 08:12:50.199920,2024-02-21 08:12:50.469443,
+81,2024-02-21 08:12:50.200127,2024-02-21 08:12:50.495790,
+82,2024-02-21 08:12:50.200326,2024-02-21 08:12:50.645725,
+83,2024-02-21 08:12:50.200525,2024-02-21 08:12:50.769847,
+84,2024-02-21 08:12:50.200733,2024-02-21 08:12:50.508167,
+85,2024-02-21 08:12:50.200927,2024-02-21 08:12:50.456611,
+86,2024-02-21 08:12:50.201119,2024-02-21 08:12:50.537994,
+87,2024-02-21 08:12:50.201410,2024-02-21 08:12:50.635307,
+88,2024-02-21 08:12:50.201622,2024-02-21 08:12:50.368009,
+89,2024-02-21 08:12:50.201834,2024-02-21 08:12:50.334638,
+90,2024-02-21 08:12:50.307624,2024-02-21 08:12:50.570416,
+91,2024-02-21 08:12:50.324418,2024-02-21 08:12:50.507701,
+92,2024-02-21 08:12:50.335495,2024-02-21 08:12:50.429930,
+93,2024-02-21 08:12:50.341335,2024-02-21 08:12:50.717284,
+94,2024-02-21 08:12:50.343751,2024-02-21 08:12:50.465710,
+95,2024-02-21 08:12:50.344829,2024-02-21 08:12:50.577991,
+96,2024-02-21 08:12:50.355631,2024-02-21 08:12:50.581507,
+97,2024-02-21 08:12:50.369524,2024-02-21 08:12:50.723058,
+98,2024-02-21 08:12:50.376910,2024-02-21 08:12:50.491452,
+99,2024-02-21 08:12:50.380537,2024-02-21 08:12:50.503979,
+100,2024-02-21 08:12:50.384022,2024-02-21 08:12:50.736907,
+101,2024-02-21 08:12:50.387887,2024-02-21 08:12:50.521264,
+102,2024-02-21 08:12:50.390655,2024-02-21 08:12:50.767525,
+103,2024-02-21 08:12:50.393311,2024-02-21 08:12:50.511466,
+104,2024-02-21 08:12:50.398070,2024-02-21 08:12:50.578294,
+105,2024-02-21 08:12:50.399591,2024-02-21 08:12:50.689480,
+106,2024-02-21 08:12:50.401780,2024-02-21 08:12:50.587528,
+107,2024-02-21 08:12:50.406904,2024-02-21 08:12:50.524693,
+108,2024-02-21 08:12:50.409647,2024-02-21 08:12:50.537624,
+109,2024-02-21 08:12:50.414114,2024-02-21 08:12:50.693234,
+110,2024-02-21 08:12:50.414549,2024-02-21 08:12:50.753106,
+111,2024-02-21 08:12:50.415071,2024-02-21 08:12:50.761150,
+112,2024-02-21 08:12:50.416819,2024-02-21 08:12:50.729269,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+113,2024-02-21 08:12:50.419215,2024-02-21 08:12:50.602080,
+114,2024-02-21 08:12:50.421336,2024-02-21 08:12:50.734152,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+115,2024-02-21 08:12:50.423539,2024-02-21 08:12:50.543684,
+116,2024-02-21 08:12:50.425570,2024-02-21 08:12:50.765782,
+117,2024-02-21 08:12:50.429153,2024-02-21 08:12:50.615588,
+118,2024-02-21 08:12:50.431717,2024-02-21 08:12:50.670273,
+119,2024-02-21 08:12:50.432600,2024-02-21 08:12:50.788768,
+120,2024-02-21 08:12:50.433029,2024-02-21 08:12:50.631303,
+121,2024-02-21 08:12:50.437292,2024-02-21 08:12:50.550069,
+122,2024-02-21 08:12:50.440816,2024-02-21 08:12:50.582097,
+123,2024-02-21 08:12:50.442310,2024-02-21 08:12:50.661498,
+124,2024-02-21 08:12:50.445882,2024-02-21 08:12:50.680538,
+125,2024-02-21 08:12:50.448116,2024-02-21 08:12:50.682042,
+126,2024-02-21 08:12:50.457647,2024-02-21 08:12:50.674373,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+127,2024-02-21 08:12:50.462349,2024-02-21 08:12:50.638182,
+128,2024-02-21 08:12:50.463081,2024-02-21 08:12:50.772516,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+129,2024-02-21 08:12:50.463697,2024-02-21 08:12:50.685969,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+130,2024-02-21 08:12:50.466912,2024-02-21 08:12:50.782505,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+131,2024-02-21 08:12:50.467538,2024-02-21 08:12:50.696324,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+132,2024-02-21 08:12:50.469537,2024-02-21 08:12:50.619944,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+133,2024-02-21 08:12:50.469952,2024-02-21 08:12:50.699240,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+134,2024-02-21 08:12:50.471377,2024-02-21 08:12:50.704427,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+135,2024-02-21 08:12:50.473342,2024-02-21 08:12:50.739432,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+136,2024-02-21 08:12:50.477029,2024-02-21 08:12:50.789072,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+137,2024-02-21 08:12:50.480040,2024-02-21 08:12:50.800673,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+138,2024-02-21 08:12:50.480476,2024-02-21 08:12:50.805193,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+139,2024-02-21 08:12:50.487088,2024-02-21 08:12:50.715678,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+140,2024-02-21 08:12:50.488412,2024-02-21 08:12:50.641469,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+141,2024-02-21 08:12:50.489884,2024-02-21 08:12:50.721081,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+142,2024-02-21 08:12:50.490539,2024-02-21 08:12:50.645058,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+143,2024-02-21 08:12:50.492472,2024-02-21 08:12:50.750387,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+144,2024-02-21 08:12:50.494356,2024-02-21 08:12:50.804231,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+145,2024-02-21 08:12:50.495878,2024-02-21 08:12:50.807856,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+146,2024-02-21 08:12:50.497373,2024-02-21 08:12:50.813559,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+147,2024-02-21 08:12:50.499792,2024-02-21 08:12:50.649634,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+148,2024-02-21 08:12:50.502914,2024-02-21 08:12:50.659275,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+149,2024-02-21 08:12:50.505049,2024-02-21 08:12:50.678845,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+150,2024-02-21 08:12:50.505685,2024-02-21 08:12:50.738239,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+151,2024-02-21 08:12:50.507786,2024-02-21 08:12:50.815598,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+152,2024-02-21 08:12:50.508765,2024-02-21 08:12:50.781952,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+153,2024-02-21 08:12:50.509629,2024-02-21 08:12:50.789304,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+154,2024-02-21 08:12:50.509992,2024-02-21 08:12:50.820922,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+155,2024-02-21 08:12:50.513137,2024-02-21 08:12:50.601185,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+156,2024-02-21 08:12:50.522421,2024-02-21 08:12:50.795222,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+157,2024-02-21 08:12:50.525793,2024-02-21 08:12:50.819558,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+158,2024-02-21 08:12:50.526461,2024-02-21 08:12:50.820715,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+159,2024-02-21 08:12:50.527696,2024-02-21 08:12:50.694729,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+160,2024-02-21 08:12:50.528882,2024-02-21 08:12:50.804787,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+161,2024-02-21 08:12:50.530387,2024-02-21 08:12:50.846908,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+162,2024-02-21 08:12:50.535334,2024-02-21 08:12:50.828053,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+163,2024-02-21 08:12:50.538726,2024-02-21 08:12:50.600080,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+164,2024-02-21 08:12:50.539081,2024-02-21 08:12:50.613864,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+165,2024-02-21 08:12:50.542317,2024-02-21 08:12:50.621375,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+166,2024-02-21 08:12:50.544815,2024-02-21 08:12:50.628084,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+167,2024-02-21 08:12:50.551395,2024-02-21 08:12:50.823410,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+168,2024-02-21 08:12:50.558118,2024-02-21 08:12:50.797526,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+169,2024-02-21 08:12:50.559993,2024-02-21 08:12:50.640167,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+170,2024-02-21 08:12:50.561689,2024-02-21 08:12:50.826322,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+171,2024-02-21 08:12:50.563527,2024-02-21 08:12:50.650457,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+172,2024-02-21 08:12:50.571486,2024-02-21 08:12:50.808452,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+173,2024-02-21 08:12:50.579357,2024-02-21 08:12:50.810652,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+174,2024-02-21 08:12:50.579778,2024-02-21 08:12:50.709607,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+175,2024-02-21 08:12:50.582290,2024-02-21 08:12:50.847695,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+176,2024-02-21 08:12:50.583595,2024-02-21 08:12:50.815771,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+177,2024-02-21 08:12:50.588400,2024-02-21 08:12:50.665056,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+178,2024-02-21 08:12:50.595873,2024-02-21 08:12:50.827662,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+179,2024-02-21 08:12:50.601228,2024-02-21 08:12:50.842731,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+180,2024-02-21 08:12:50.603414,2024-02-21 08:12:50.706674,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+181,2024-02-21 08:12:50.603935,2024-02-21 08:12:50.822430,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+182,2024-02-21 08:12:50.605658,2024-02-21 08:12:50.823144,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+183,2024-02-21 08:12:50.607076,2024-02-21 08:12:50.840870,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+184,2024-02-21 08:12:50.610727,2024-02-21 08:12:50.844347,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+185,2024-02-21 08:12:50.612966,2024-02-21 08:12:50.844815,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+186,2024-02-21 08:12:50.615104,2024-02-21 08:12:50.848849,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+187,2024-02-21 08:12:50.616312,2024-02-21 08:12:50.849667,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+188,2024-02-21 08:12:50.617788,2024-02-21 08:12:50.724902,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+189,2024-02-21 08:12:50.618905,2024-02-21 08:12:50.674134,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+190,2024-02-21 08:12:50.620772,2024-02-21 08:12:50.850604,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+191,2024-02-21 08:12:50.621481,2024-02-21 08:12:50.688455,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+192,2024-02-21 08:12:50.622097,2024-02-21 08:12:50.827202,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+193,2024-02-21 08:12:50.623715,2024-02-21 08:12:50.852829,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+194,2024-02-21 08:12:50.624558,2024-02-21 08:12:50.725812,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+195,2024-02-21 08:12:50.629747,2024-02-21 08:12:50.738777,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+196,2024-02-21 08:12:50.632328,2024-02-21 08:12:50.855895,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+197,2024-02-21 08:12:50.636298,2024-02-21 08:12:50.743400,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+198,2024-02-21 08:12:50.639124,2024-02-21 08:12:50.709424,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+199,2024-02-21 08:12:50.640963,2024-02-21 08:12:50.718383,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+200,2024-02-21 08:12:50.642461,2024-02-21 08:12:50.833858,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+201,2024-02-21 08:12:50.646502,2024-02-21 08:12:50.860038,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+202,2024-02-21 08:12:50.647456,2024-02-21 08:12:50.859622,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+203,2024-02-21 08:12:50.650615,2024-02-21 08:12:50.755649,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+204,2024-02-21 08:12:50.651445,2024-02-21 08:12:50.835071,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+205,2024-02-21 08:12:50.659963,2024-02-21 08:12:50.838190,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+206,2024-02-21 08:12:50.661684,2024-02-21 08:12:50.866711,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+207,2024-02-21 08:12:50.662900,2024-02-21 08:12:50.733077,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+208,2024-02-21 08:12:50.666179,2024-02-21 08:12:50.870249,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+209,2024-02-21 08:12:50.666923,2024-02-21 08:12:50.864797,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+210,2024-02-21 08:12:50.670973,2024-02-21 08:12:50.840388,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+211,2024-02-21 08:12:50.675649,2024-02-21 08:12:50.741858,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+212,2024-02-21 08:12:50.676442,2024-02-21 08:12:50.872513,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+213,2024-02-21 08:12:50.677096,2024-02-21 08:12:50.747384,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+214,2024-02-21 08:12:50.679975,2024-02-21 08:12:50.758301,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+215,2024-02-21 08:12:50.682151,2024-02-21 08:12:50.880513,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+216,2024-02-21 08:12:50.684244,2024-02-21 08:12:50.880850,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+217,2024-02-21 08:12:50.684967,2024-02-21 08:12:50.866875,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+218,2024-02-21 08:12:50.685347,2024-02-21 08:12:50.841742,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+219,2024-02-21 08:12:50.687374,2024-02-21 08:12:50.869186,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+220,2024-02-21 08:12:50.689940,2024-02-21 08:12:50.755457,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+221,2024-02-21 08:12:50.690822,2024-02-21 08:12:50.765348,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+222,2024-02-21 08:12:50.693939,2024-02-21 08:12:50.853281,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+223,2024-02-21 08:12:50.695813,2024-02-21 08:12:50.761433,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+224,2024-02-21 08:12:50.697347,2024-02-21 08:12:50.881462,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+225,2024-02-21 08:12:50.700205,2024-02-21 08:12:50.854726,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+226,2024-02-21 08:12:50.705592,2024-02-21 08:12:50.882451,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+227,2024-02-21 08:12:50.707309,2024-02-21 08:12:50.883097,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+228,2024-02-21 08:12:50.710193,2024-02-21 08:12:50.869904,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+229,2024-02-21 08:12:50.710882,2024-02-21 08:12:50.785338,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+230,2024-02-21 08:12:50.711425,2024-02-21 08:12:50.769416,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+231,2024-02-21 08:12:50.716551,2024-02-21 08:12:50.873468,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+232,2024-02-21 08:12:50.717842,2024-02-21 08:12:50.875791,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+233,2024-02-21 08:12:50.719711,2024-02-21 08:12:50.875997,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+234,2024-02-21 08:12:50.722500,2024-02-21 08:12:50.861866,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+235,2024-02-21 08:12:50.724054,2024-02-21 08:12:50.779587,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+236,2024-02-21 08:12:50.725902,2024-02-21 08:12:50.878021,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+237,2024-02-21 08:12:50.727384,2024-02-21 08:12:50.878871,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+238,2024-02-21 08:12:50.730152,2024-02-21 08:12:50.796003,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+239,2024-02-21 08:12:50.734182,2024-02-21 08:12:50.865844,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+240,2024-02-21 08:12:50.735533,2024-02-21 08:12:50.880972,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+241,2024-02-21 08:12:50.737739,2024-02-21 08:12:50.885348,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+242,2024-02-21 08:12:50.739492,2024-02-21 08:12:50.886767,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+243,2024-02-21 08:12:50.740316,2024-02-21 08:12:50.867821,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+244,2024-02-21 08:12:50.740992,2024-02-21 08:12:50.870666,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+245,2024-02-21 08:12:50.742946,2024-02-21 08:12:50.887381,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+246,2024-02-21 08:12:50.744489,2024-02-21 08:12:50.888013,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+247,2024-02-21 08:12:50.748942,2024-02-21 08:12:50.808270,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+248,2024-02-21 08:12:50.751805,2024-02-21 08:12:50.888266,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+249,2024-02-21 08:12:50.754052,2024-02-21 08:12:50.810386,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+250,2024-02-21 08:12:50.756804,2024-02-21 08:12:50.868939,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+251,2024-02-21 08:12:50.757236,2024-02-21 08:12:50.870934,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+252,2024-02-21 08:12:50.759868,2024-02-21 08:12:50.803644,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+253,2024-02-21 08:12:50.762782,2024-02-21 08:12:50.871407,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+254,2024-02-21 08:12:50.763221,2024-02-21 08:12:50.861015,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+255,2024-02-21 08:12:50.766455,2024-02-21 08:12:50.862337,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+256,2024-02-21 08:12:50.767119,2024-02-21 08:12:50.862913,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+257,2024-02-21 08:12:50.768561,2024-02-21 08:12:50.871908,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+258,2024-02-21 08:12:50.770851,2024-02-21 08:12:50.879584,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+259,2024-02-21 08:12:50.771390,2024-02-21 08:12:50.880113,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+260,2024-02-21 08:12:50.774412,2024-02-21 08:12:50.804928,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+261,2024-02-21 08:12:50.779972,2024-02-21 08:12:50.814402,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+262,2024-02-21 08:12:50.782787,2024-02-21 08:12:50.857147,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+263,2024-02-21 08:12:50.783843,2024-02-21 08:12:50.881216,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+264,2024-02-21 08:12:50.785998,2024-02-21 08:12:50.881651,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+265,2024-02-21 08:12:50.789554,2024-02-21 08:12:50.859053,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+266,2024-02-21 08:12:50.790174,2024-02-21 08:12:50.820460,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+267,2024-02-21 08:12:50.790896,2024-02-21 08:12:50.859852,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+268,2024-02-21 08:12:50.796178,2024-02-21 08:12:50.864423,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
+269,2024-02-21 08:12:50.797045,2024-02-21 08:12:50.865032,"HTTPStatusError(""Client error '429 Too Many Requests' for url 'https://proportionate-restless-pine.quiknode.pro/f074ef01c6aa2459a83a2492e495ade787c94fc5'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"")"
