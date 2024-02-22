@@ -296,6 +296,9 @@ There aren't any limits but they are.
 - Chainstack has idiosyncratic limiting behaviour. For real world use, setting a
   hard cap of concurrent requests is advised. A custom rate limiter that
   considers variance in response times can be implemented.
+- Sending lots of concurrent requests may hit limit for the number of open files
+  on your system. Check if with `ulimit`. You can set limits per session with
+  `ulimit -Sn 10000`.
 
 ## Considerations
 
